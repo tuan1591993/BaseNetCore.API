@@ -1,0 +1,11 @@
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\bin\Debug\net6.0\BaseNetCore.Domain.deps.json
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\bin\Debug\net6.0\BaseNetCore.Domain.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\bin\Debug\net6.0\BaseNetCore.Domain.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.AssemblyInfo.cs
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\refint\BaseNetCore.Domain.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\BaseNetCore.Domain.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Domain\obj\Debug\net6.0\ref\BaseNetCore.Domain.dll

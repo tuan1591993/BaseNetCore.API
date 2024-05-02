@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lH8ieRTamXZoDBCZlOZOGFdAs9UPPGhUzV9k+kIHE3s=",
+  "Source": "BaseNetCore.API",
+  "BasePath": "_content/BaseNetCore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

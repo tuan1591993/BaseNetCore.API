@@ -1,0 +1,15 @@
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\bin\Debug\net6.0\BaseNetCore.Application.deps.json
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\bin\Debug\net6.0\BaseNetCore.Application.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\bin\Debug\net6.0\BaseNetCore.Application.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.csproj.AssemblyReference.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.AssemblyInfoInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.AssemblyInfo.cs
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\refint\BaseNetCore.Application.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\ref\BaseNetCore.Application.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\bin\Debug\net6.0\BaseNetCore.Domain.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\bin\Debug\net6.0\BaseNetCore.Domain.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Application\obj\Debug\net6.0\BaseNetCore.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Infrastructure.deps.json
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Infrastructure.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Infrastructure.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Application.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Domain.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Application.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\bin\Debug\net6.0\BaseNetCore.Domain.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.AssemblyInfo.cs
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.csproj.CopyComplete
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\refint\BaseNetCore.Infrastructure.dll
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\BaseNetCore.Infrastructure.pdb
+C:\Users\FFintech\source\repos\BaseNetCore\BaseNetCore.Infrastructure\obj\Debug\net6.0\ref\BaseNetCore.Infrastructure.dll
